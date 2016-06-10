@@ -35,13 +35,13 @@ author: "Xiaoyun Zhao"
 title: "Xiaoyun Zhao"
 description: "Blog and website of Xiaoyun, blogging mainly for tech. Opinions expressed are mine."
 keywords: "personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+favicon: "/img/icon.png"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/icon.png"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -123,7 +123,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/init.jpg"
 
 ###########
 # Contact #
