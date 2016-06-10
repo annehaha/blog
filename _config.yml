@@ -3,7 +3,11 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
+<<<<<<< HEAD
 url: "https://github.com/annehaha/blog.github.io"
+=======
+url: "https://annehaha.github.com/blog"
+>>>>>>> gh-pages
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,7 +16,11 @@ url: "https://github.com/annehaha/blog.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
+<<<<<<< HEAD
 baseurl: /annehaha
+=======
+baseurl: /blog
+>>>>>>> gh-pages
 
 # Google tracking id to track your visitors
 
@@ -55,8 +63,14 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
+<<<<<<< HEAD
   - text: "一天天我期待，期待不一样的未来"
   - text: "未来的某一天我们一起喊着嗨"
+=======
+  - text: "I'm Xiaoyun from Shanghai Jiao Tong University."
+  - text: "Looking for a job of software development."
+  - text: "If you are interested in me, please contact me."
+>>>>>>> gh-pages
 
 me-img: "/img/annezhao.jpg"
 
