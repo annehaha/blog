@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Xiaoyun Zhao"
-title: "Xiaoyun Zhao's blog"
+title: "Xiaoyun Zhao"
 description: "Blog and website of Xiaoyun, blogging mainly for tech. Opinions expressed are mine."
 keywords: "personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -55,9 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "I'm Xiaoyun from Shanghai Jiao Tong University."
+  - text: "Hello, I'm Xiaoyun from Shanghai Jiao Tong University."
   - text: "Looking for a job of software development."
-  - text: "If you are interested in me, please contact me."
 
 me-img: "/img/annezhao.jpg"
 
