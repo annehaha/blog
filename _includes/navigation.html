@@ -19,6 +19,13 @@
             {{ site.title }}
           </div>
         </a>
+        <span id="musicControl" class="navbar-brand">
+          <a id="mc_play"  onclick="play_music();" title="Listen to my song 慢步">
+              <audio id="musicfx" loop="loop">
+                  <source src="{{site.baseurl}}/img/慢步.mp3" type="audio/mpeg">
+              </audio>
+          </a>
+        </span>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
