@@ -13,7 +13,7 @@ url: "http://www.zhaoxiaoyun.top/"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: https://www.zhaoxiaoyun.top
+baseurl: http://www.zhaoxiaoyun.top
 #baseurl: /blog
 
 # Google tracking id to track your visitors
