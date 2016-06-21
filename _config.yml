@@ -111,6 +111,9 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/alibaba.jpg"
+    date: "June. 2016 - Today"
+    description: "Alibaba Ant Finance/UED intern."
   - image: "/img/timeline/intel.jpg"
     date: "Sept. 2015 - April 2016"
     description: "Intel SSG/WebRTC intern."
