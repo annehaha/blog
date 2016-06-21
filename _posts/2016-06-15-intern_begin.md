@@ -6,14 +6,14 @@ category: Tech
 tags: [ 'internship', 'front-end' ]
 ---
 
-#### 初进蚂蚁
+### 初进蚂蚁
 报道那天进了支付宝大楼，发现只需要工牌和手机就可以在这里存活下去，支付宝渗透了方方面面，阿里内部还有很多app，方便的飞起，比如有个app的功能是可以控制会议室的空调和灯，像我这种想做小透明的人再也不需要尴尬的站起身了。
 
-#### 环境部署
+### 环境部署
 阿里前端用了不少封装的UI，他们用的tnpm也是npm的镜像部分内容对内使用，Ant－tool是自己做的脚手架工具。除此之外，各种配置文档写的挺清晰，按照代码框里面的步骤走，基本不看其他说明也能快速成功，如果要我提意见找bug，就需要细心来吹毛求疵了。阿里前端的开发构建如此成熟，还是挺开眼的。
 接下来会持续更新一些收获。
 
-####工具小结
+###工具小结
 [npm](https://www.npmjs.com/) : npm的全称是Node Package Manager, 是一个NodeJS包管理和分发工具。
 
 tnpm : 阿里内部 npm 及 源 npm 镜像，完整 npmjs.org 镜像，同步频率目前为 10分钟 一次以保证尽量与官方服务同步。
@@ -47,13 +47,13 @@ Yocto提供touch的完整解决方案，解决click的300ms延迟，解决了Zep
 
 [dora](https://github.com/dora-js/dora) : dora将编译的过程放在自己起server的生命周期中，只要一个命令就完成build watch server的阶段。不需要多个terminal或者多个命令，只要一键配成，傻瓜式。
 
-#####其它工具
+###其它工具
 图片压缩： <https://tinypng.com/>
 
 编辑器：Sublime, WebStorm, Atom
 
 调试工具 ： weinre chrome safari
 
-####翻墙
+###翻墙
 又一免费翻墙方法：
 [ihost](http://ihost.alibaba.net/) ＋ [racaljk/hosts](https://github.com/racaljk/hosts)
