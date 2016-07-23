@@ -7,6 +7,77 @@
 		<atom:link href="https://www.zhaoxiaoyun.top//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>快捷键大全</title>
+				
+				
+					<description>&lt;h2 id=&quot;webstorm&quot;&gt;Webstorm快捷键&lt;/h2&gt;
+&lt;p&gt;快速使用工具是提升效率的一种简单粗暴的方式，整理几个比较常用的快捷键(Mac或Win自行转换cmd或ctrl)：&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 23 Jul 2016 00:00:00 +0800</pubDate>
+				<link>https://www.zhaoxiaoyun.top//tech/2016/07/23/shortcut.html</link>
+				<guid isPermaLink="true">https://www.zhaoxiaoyun.top//tech/2016/07/23/shortcut.html</guid>
+			</item>
+		
+			<item>
+				<title>Javascript小技巧</title>
+				
+				
+					<description>&lt;h3 id=&quot;section&quot;&gt;一点点惊喜&lt;/h3&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;!!&lt;/code&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 12 Jul 2016 00:00:00 +0800</pubDate>
+				<link>https://www.zhaoxiaoyun.top//tech/2016/07/12/javascript.html</link>
+				<guid isPermaLink="true">https://www.zhaoxiaoyun.top//tech/2016/07/12/javascript.html</guid>
+			</item>
+		
+			<item>
+				<title>jquery的$.extend()、$.fn和$.fn.extend()</title>
+				
+				
+					<description>&lt;h3 id=&quot;section&quot;&gt;事例比较&lt;/h3&gt;
+&lt;p&gt;经常看到插件使用$.extend()、$.fn和$.fn.extend()，这三者有何区别呢？且看如下例子：&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 12 Jul 2016 00:00:00 +0800</pubDate>
+				<link>https://www.zhaoxiaoyun.top//tech/2016/07/12/$.fn.html</link>
+				<guid isPermaLink="true">https://www.zhaoxiaoyun.top//tech/2016/07/12/$.fn.html</guid>
+			</item>
+		
+			<item>
+				<title>Http2来了</title>
+				
+				
+					<description>&lt;h3 id=&quot;section&quot;&gt;新特性&lt;/h3&gt;
+&lt;p&gt;最近前端大事不得不专注的就是http2了。HTTP／2协议是由SPDY演变而来，设计旨在降低50%的页面加载时间。两者不同之处主要在于：&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 05 Jul 2016 00:00:00 +0800</pubDate>
+				<link>https://www.zhaoxiaoyun.top//tech/2016/07/05/http2.html</link>
+				<guid isPermaLink="true">https://www.zhaoxiaoyun.top//tech/2016/07/05/http2.html</guid>
+			</item>
+		
+			<item>
+				<title>发现Webpack的好</title>
+				
+				
+					<description>&lt;h3 id=&quot;gulpgrunt&quot;&gt;与Gulp/Grunt的比较&lt;/h3&gt;
+&lt;p&gt;项目现在使用Webpack，而之前用的grunt习惯了也觉得很顺手各种插件信手可得，所以转过来有些不适应和不理解。这两天学了下webpack，发现他的“好”。
+如果说Gulp做的是流的连续处理工作，那么webpack则是对同一个流的处理。很多大型工程为了体验性会把文件都打到同一个js文件中，而此时多文件混合很可能会影响按需加载。&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 29 Jun 2016 00:00:00 +0800</pubDate>
+				<link>https://www.zhaoxiaoyun.top//tech/2016/06/29/webpack.html</link>
+				<guid isPermaLink="true">https://www.zhaoxiaoyun.top//tech/2016/06/29/webpack.html</guid>
+			</item>
+		
+			<item>
 				<title>实习伊始</title>
 				
 				
