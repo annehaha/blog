@@ -112,7 +112,7 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/alibaba.jpg"
-    date: "June. 2016 - Today"
+    date: "June. 2016 - Aug.2016"
     description: "Alibaba Ant Finance intern."
   - image: "/img/timeline/intel.jpg"
     date: "Sept. 2015 - April 2016"
